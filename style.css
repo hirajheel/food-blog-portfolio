@@ -25,3 +25,11 @@ section{
 .apple img{
     width: 75%;
 }
+.kabab{
+    background-image: url(hablu.jpg);
+    background-repeat: no-repeat;
+}
+.misti{
+    text-align: center;
+    
+}
